@@ -37,6 +37,7 @@ GEM
     sinatra-activerecord (2.0.26)
       activerecord (>= 4.1)
       sinatra (>= 1.0)
+    sqlite3 (1.4.2)
     tilt (2.1.0)
     tzinfo (2.0.6)
       concurrent-ruby (~> 1.0)
@@ -51,6 +52,7 @@ DEPENDENCIES
   rake
   require_all
   sinatra-activerecord
+  sqlite3 (~> 1.4)
 
 BUNDLED WITH
    2.4.7

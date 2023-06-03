@@ -8,4 +8,8 @@ gem "rake"
 
 gem "require_all"
 
+gem "sqlite3", "~> 1.4"
+
+gem 'faker'
+
 gem "pry"
