@@ -75,7 +75,7 @@ D. Authors Info
 
 ### Licence
 
-[MIT License]
+[MIT License](https://github.com/ewambua/Code-Challenge-Product-Review/blob/main/LICENSE)
 
 
 ### Authors Info
